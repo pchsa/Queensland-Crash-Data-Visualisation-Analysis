@@ -5,4 +5,4 @@ Technologies used include: Pyspark, Python, SQL, Matplotlib, Pandas
 
 This was made to be deployed on Google Cloud Platform.
 
-[Jupyter Notebook](https://github.com/pchsa/Queensland-Crash-Data-Visualisation-Analysis/blob/main/Spark%20Big%20Data%20Queries%2C%20qld%20crashes.ipynb)
+[Access Jupyter Notebook here](https://github.com/pchsa/Queensland-Crash-Data-Visualisation-Analysis/blob/main/Spark%20Big%20Data%20Queries%2C%20qld%20crashes.ipynb)
